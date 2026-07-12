@@ -1,0 +1,92 @@
+{
+    "cookies": [
+        {
+            "name": "_ga",
+            "value": "GA1.1.1933666341.1783698738",
+            "domain": ".khamsat.com",
+            "path": "/",
+            "expires": 1818450917.278988,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga",
+            "value": "GA1.2.1591082710.1783698854",
+            "domain": ".hsoub.com",
+            "path": "/",
+            "expires": 1818258853.582075,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "remember_user_token",
+            "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IlcxczRORGt3TkRRMlhTd2lKREpoSkRFeUpHUkpVSEl2YURKTVJXZEpjbUpRVm1KbllVbDZRaTRpTENJeE56Z3pOams0T1RVM0xqazRNamszT0NKZCIsImV4cCI6IjIwMjctMDEtMTBUMTU6NTU6NTcuOTgyWiIsInB1ciI6ImNvb2tpZS5yZW1lbWJlcl91c2VyX3Rva2VuIn19--8aa5ac9a1b2c819de6915165557b308099b6be53",
+            "domain": "accounts.hsoub.com",
+            "path": "/",
+            "expires": 1799596555.110482,
+            "httpOnly": true,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "login_started_at",
+            "value": "76JlIBb7WFXfi85ZcpSIpJSTELVgjYAEimLi9Ta%2FIf2IPiWdKwneCjk%2BxpYOLulbEvuo%2BA4tqzJmYwatyopPbpiyVrErcGkQtHGO55%2FD63Jq4DM0VpYg6HH%2Fm2YnMPhnTXbuhqW%2F4iqDvw%3D%3D--pSzKByFWJlyEie3s--%2FnLZYCNgNxWmJ6D0QadhGg%3D%3D",
+            "domain": ".accounts.hsoub.com",
+            "path": "/",
+            "expires": 1799596555.110855,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "token",
+            "value": "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjp7ImlkIjoiRkEyM0UzNkQ3RUNFMDlGNjlGMEFFNTkxNTM3REMxMjgiLCJsb2dpbiI6dHJ1ZSwiY3JlYXRlZF9hdCI6MTc4MzYyMjc4Mn0sImV4cCI6MTc5OTU5NjU1N30.O3o9gohmc5JCBzFxhEodcHVkfmzAe30dr4pZYCa4BHc",
+            "domain": ".accounts.hsoub.com",
+            "path": "/",
+            "expires": 1799596555.111006,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "khamsat_cart",
+            "value": "6G2P7M1O0",
+            "domain": "khamsat.com",
+            "path": "/",
+            "expires": 1786482915.254566,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "rack.session",
+            "value": "iHGH%2BustSrGfw8nClVnRApwREhvY5JIfxn4WaL2qzVxHNI3%2Bx2FH5PuSzJ6SeMkA3cnU4qkcWD5YW824%2FNAUchHLZhG5ix20zhQ%2F6f7R6LSANj4ejDCoCqeDBO3U2gHP%2FRW0rVyFzGdKO6JbCTD9jlGZxBtqMtGCwL7MJmxQRB0BhsemRypvPvHNJXxmzYQOTUGS5BtUP8K%2FRLmoPeG6jmiIUN0a7kn7Pvj%2FuzBHZBpCpqTQxOViskMktnX93uC9KtfvT0VnkFnMib15MBfAKjfjDp2v%2Bqx8Q3AZuzgQKGBtjYEl2WFRPs%2BJrvabg2Gxmq%2F%2FKpdGeti2WTxKcWbdoeGdCWf8W9ym69CYuJp2kX3zTqv0DqsvNsasKUqWSGTk%2BQAP14HIdSNdS10ePAJlgdl4uRjFZA8mBvJjDMmeVQ%2F%2Byt6bUl2l1HqCLR9tlfjbJWgsu%2BlRO6AJRp56pbxhcR2zMMPyMOoO0hYKL%2BTXkeDjehNSiUrW1INgTr6TlKOIJ2rDoOgx7UkbeuSHN2ml0kCp%2FcsgOfwqjctZnEO0IH%2F2H0%2Fc%2Fws5QACIFaxNTS3zS7DENPJiiJuxgzQlvxRf68RBuIvmga92d3fLnBAE6FI%3D",
+            "domain": "khamsat.com",
+            "path": "/",
+            "expires": 1799785218.255822,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "_ga_VJTWD7MMFR",
+            "value": "GS2.1.s1783890454$o8$g1$t1783890917$j60$l0$h0",
+            "domain": ".khamsat.com",
+            "path": "/",
+            "expires": 1818450917.278347,
+            "httpOnly": false,
+            "secure": false,
+            "sameSite": "Lax"
+        }
+    ],
+    "localStorage": {
+        "audioKey": "6453.352905372714"
+    },
+    "sessionStorage": {
+        "tabBarLinks": "{\"home\":\"/\"}",
+        "activeTab": "home",
+        "hsoubTabBarActiveTab": "home"
+    }
+}
